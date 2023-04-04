@@ -1,4 +1,5 @@
-### Hi there 👋
+### Andrew Yip
+### Software Engineer
 
 <!--
 **andrew-yip/andrew-yip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
