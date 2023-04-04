@@ -1,12 +1,10 @@
 ### Languages and Tools:
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a href="[https://www.w3schools.com/css/](https://www.w3schools.com/js/)" target="_blank"><img align="left" alt="JavaScript" width="26px" src="https://banner2.cleanpng.com/20190318/qku/kisspng-javascript-portable-network-graphics-html5-logo-ca-javascript-developer-wereldwijd-werken-rotterdam-6-5c8f6451b79886.368481091552901201752.jpg" /></a>
+<a href="[https://www.w3schools.com/css/](https://www.w3schools.com/js/)" target="_blank"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
 <a href="https://www.w3schools.com/python/" target="_blank"><img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
 <a href="https://react.dev/" target="_blank"><img align="left" alt="React.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
-<a href="https://www.java.com/en/" target="_blank"><img align="left" alt="Java" width="22px" src="https://spng.pngfind.com/pngs/s/74-744402_java-logo-png-transparent-svg-vector-freebie-supply.png" /></a>
-
-
+<a href="https://www.java.com/en/" target="_blank"><img align="left" alt="Java" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /></a>
 
 
 <!--
