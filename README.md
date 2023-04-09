@@ -8,6 +8,8 @@
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <a href="https://nextjs.org/" target="_blank"> <img align="left" alt="Next.js" width="26px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"/> </a>
 <a href="https://angular.io/" target="_blank"> <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/> </a>
+<a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="Tailwind.css" width="26px" src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4"/> </a>
+
 
 
 <br />
