@@ -12,8 +12,6 @@
 <a href="https://nestjs.com/" target="_blank"> <img align="left" alt="Nest.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png"/> </a>
 
 
-
-
 <br />
 <br />
 
@@ -21,6 +19,9 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png"/> </a>
+
+<br />
+<br />
 
 - 📫 How to reach me: https://www.linkedin.com/in/andrewayip/
 
