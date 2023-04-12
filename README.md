@@ -23,7 +23,7 @@
 <br />
 <br />
 
-- 📫 How to reach me: https://www.linkedin.com/in/andrewayip/
+📫 How to reach me: https://www.linkedin.com/in/andrewayip/
 
 <!--
 **andrew-yip/andrew-yip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
